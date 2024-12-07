@@ -1,3 +1,4 @@
 pyodbc
 sentence_transformers
 openai
+faiss-cpu
