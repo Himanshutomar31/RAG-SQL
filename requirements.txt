@@ -1,0 +1,3 @@
+pyodbc
+sentence_transformers
+openai
